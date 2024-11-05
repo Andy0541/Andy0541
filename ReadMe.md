@@ -1,5 +1,10 @@
+<h1 align="center">Hi 👋, I'm Andy Ríos Sandí</h1>
+<h3 align="center">A passionate frontend developer from Costa Rica</h3>
+
 # 💫 About Me:
-🔭 I’m currently working on HTML / CSS / JS <br>🤝 I’m looking to collaborate on website development<br>🌱 I’m currently learning TS / React
+🔭 I’m currently working on HTML / CSS / JS <br> 
+🤝 I’m looking to collaborate on website development<br>
+🌱 I’m currently learning TS / React
 
 
 ## 🌐 Socials:
