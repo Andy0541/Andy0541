@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andy Ríos Sandí</h1>
-<h3 align="center">A passionate frontend developer from Costa Rica</h3>
+<h3 align="center">Systems Engineer, a passionate frontend developer from Costa Rica</h3>
 
 # 💫 About Me:
 
@@ -9,7 +9,7 @@
 
 ## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anrioss_41) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/anrioss05)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anrioss_41) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/anrioss05) [![Gmail Badge](https://img.shields.io/badge/-anrioss05@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anrioss05@gmail.com)](mailto:anrioss05@gmail.com)
 
 # 💻 Tech Stack:
 
