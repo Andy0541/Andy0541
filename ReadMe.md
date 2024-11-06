@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Andy Ríos Sandí</h1>
-<h3 align="center">Systems Engineer, a passionate frontend developer from Costa Rica</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">, I'm Andy Ríos Sandí</h1>
+<h3 align="center">Systems Engineer, I really like the world of programming and i'm a passionate frontend developer from Costa Rica.</h3>
 
 # 💫 About Me:
 
-🔭 I’m currently working on HTML / CSS / JS <br>
+👨🏽‍💻 I’m currently working on HTML / CSS / JS <br>
 🤝 I’m looking to collaborate on website development<br>
 🌱 I’m currently learning TS / React
 
